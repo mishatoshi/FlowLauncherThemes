@@ -55,7 +55,7 @@
         x:Key="PendingLineStyle"
         BasedOn="{StaticResource BasePendingLineStyle}"
         TargetType="{x:Type Line}">
-        <Setter Property="Stroke" Value="White" />
+        <Setter Property="Stroke" Value="#009688" />
     </Style>
 
     <!--  Item Style  -->
