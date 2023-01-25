@@ -16,7 +16,6 @@ cd ~/AppData/Roaming/FlowLauncher/Themes
 git clone https://github.com/mishatoshi/MaterialOceanic-FlowLauncher-Theme.git .
 ```
 - Restart FlowLauncher
-
 - Go to FlowLauncher setting>Theme and select MaterialOceanic as your theme.
 
 ### Manual installation:
