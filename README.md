@@ -16,10 +16,10 @@ cd ~/AppData/Roaming/FlowLauncher/Themes
 git clone https://github.com/mishatoshi/MaterialOceanic-FlowLauncher-Theme.git .
 ```
 - Restart FlowLauncher
-- Go to FlowLauncher setting>Theme and select MaterialOceanic as your theme.
+- Go to FlowLauncher setting>Theme and select MaterialOceanic as your theme
 
 ### Manual installation:
-- Click on the [MaterialOceanic.xaml](https://github.com/mishatoshi/MaterialOceanic-FlowLauncher-Theme/blob/master/MaterialOceanic.xaml) then click on `Raw` button. Then save the file using `Ctrl + S`.
-- Copy/Move the file to `C:\Users\[username]\AppData\Roaming\FlowLauncher\Themes` folder.
+- Click on the [MaterialOceanic.xaml](https://github.com/mishatoshi/MaterialOceanic-FlowLauncher-Theme/blob/master/MaterialOceanic.xaml) then click on `Raw` button. Then save the file using `Ctrl + S`
+- Copy/Move the file to `C:\Users\[username]\AppData\Roaming\FlowLauncher\Themes` folder
 - Restart FlowLauncher
 - Go to FlowLauncher setting>Theme and select MaterialOceanic as your theme
