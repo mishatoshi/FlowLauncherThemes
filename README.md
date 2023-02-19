@@ -19,7 +19,7 @@
 ```Shell
 cd ~/AppData/Roaming/FlowLauncher/Themes
 curl -o MaterialOceanic.xaml https://raw.githubusercontent.com/mishatoshi/FlowLauncherThemes/master/MaterialOceanic.xaml
-curl -o DarkPurple.xaml https://github.com/mishatoshi/FlowLauncherThemes/blob/master/DarkPurple.xaml
+curl -o DarkPurple.xaml https://raw.githubusercontent.com/mishatoshi/FlowLauncherThemes/master/DarkPurple.xaml
 ```
 
 - Restart FlowLauncher
