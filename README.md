@@ -2,15 +2,15 @@
 
 ## 🖼️ Material Oceanic Theme
 
-![screen-1](https://user-images.githubusercontent.com/110047849/214605250-0f4d63a7-91ff-4aad-9e68-0d35cfa41041.png)
+![MaterialOceanic-one](https://user-images.githubusercontent.com/110047849/220130142-e40a3037-7b58-4bc2-b692-4e125d13d63c.png)
 
-![screen-2](https://user-images.githubusercontent.com/110047849/214605265-d7c29a4f-bad7-4d24-bbf0-9c0f212e3506.png)
+![MaterialOceanic-two](https://user-images.githubusercontent.com/110047849/220130290-7d5569f2-bf10-4866-8fbe-f3c89f4ee4f3.png)
 
 ## 🖼️ Dark Purple Theme
 
-![DarkPurple-1](https://user-images.githubusercontent.com/110047849/219971269-50e82a9c-50f1-413e-b28f-85e088c7b6b8.png)
+![DarkPurple-one](https://user-images.githubusercontent.com/110047849/220130385-9fd577e1-fcd9-41fc-85dd-4a2b66a377a1.png)
 
-![DarkPurple-2](https://user-images.githubusercontent.com/110047849/219971288-67bd3428-212b-415f-8dcd-c84cc9248a1a.png)
+![DarkPurple-two](https://user-images.githubusercontent.com/110047849/220130471-a0cf3cc1-2390-4245-b7a8-8b430bd45d45.png)
 
 ## ⚙️ Installation
 
